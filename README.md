@@ -7,3 +7,7 @@
 - Umax = ?
 
 - Ttask = ?
+
+# To Debug remove the comment from:
+
+- debug(line, session, servers) 
